@@ -1,13 +1,12 @@
 # MyLib - Library Management System
 
 This repository is Admin Panel of MyLib Project.<br>
-You can Find Backend [Android Application](https://github.com/devarshukani/MyLib-Android) Code Here
+You can Find User-end [Android Application](https://github.com/devarshukani/MyLib-Android) Code Here
 
 MyLib is Library Management System with Android Application to User side and Admin Panel Website for Library Management team.
 
 ## Live Preview
 Click [here](https://projectmylib.000webhostapp.com/mylib/login.php) to Experience Admin Panel Live<br>
-please contact for Username & Password
 
 ## Features
 - Login
@@ -21,7 +20,7 @@ please contact for Username & Password
 - Issue, Return & Renew Books
 
 ## Tools and Language Used
-- Sublime Text
+- Sublime Text, XAMPP
 - PHP, MySQL, JSON
 
 ## Admin Panel Preview
